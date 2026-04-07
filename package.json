@@ -1,0 +1,1 @@
+{ "name": "dasmetry-gd-importer", "version": "1.0.0", "description": "A Chrome extension for Dasmetry GD", "main": "src/content.js", "scripts": { "build": "webpack" }, "author": "Hector-scripter", "license": "MIT" }

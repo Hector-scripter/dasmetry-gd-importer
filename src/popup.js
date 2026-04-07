@@ -1,0 +1,1 @@
+document.getElementById('importBtn').addEventListener('click', function() { alert('Importing level...'); });

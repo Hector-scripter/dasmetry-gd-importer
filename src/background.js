@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(function() { console.log('Dasmetry GD Level Importer installed.'); });
